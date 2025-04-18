@@ -21,6 +21,10 @@ Reasons to learn system design:
 
 System Design is the process of planning and defining the architecture, components, modules, interfaces, and data flow of a system to meet specific requirements. It ensures scalability, reliability, efficiency, and maintainability.
 
+<p align="center">
+<img src="./Images/ChatGPT Image Apr 18, 2025, 11_11_09 AM.png" height="650"
+</p>
+
 ##### Types of System Design (Instagram Example):
 
 - **High-Level System Design (HLD):**
@@ -28,6 +32,10 @@ System Design is the process of planning and defining the architecture, componen
 
 - **Low-Level System Design (LLD):**
   - Focuses on database design, image storage, and data handling within Post Management.
+
+<p align="center">
+<img src="./Images/ChatGPT Image Apr 18, 2025, 11_37_05 AM.png" height="450"
+</p>
 
 #### 3. Key Concepts in System Design:
 
